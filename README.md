@@ -1,4 +1,13 @@
 # Chatbot Sample
-Install: npm i
-Run: npm start
-Test: npm test
+**Install:**
+```
+npm i
+```
+**Run:**
+```
+npm start
+```
+**Test:**
+```
+npm test
+```
